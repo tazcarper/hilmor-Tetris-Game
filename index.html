@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>hilmor Tetris</title>
+	<link rel="stylesheet" href="styles.css">
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script>
+function setScore( score, token, modeBInitialLevel ) {
+ $('.myScore').show();
+    if (modeBInitialLevel >= 0 && modeBInitialLevel <= 5) {
+        $("#personal-score").append('<li data-token="'+token+'" data-bmode="1">'+score+'</li>');
+    } else {
+        $("#personal-score").append('<li data-token="'+token+'">'+score+'</li>');
+    }
+    $("#submit-controls, .yourScore").show();
+}
+
+function publishScore( score, token, username, bmode ) {
+    var data = 'username='+username+'&score='+score+'&token='+token;
+    console.log(data);
+    if (bmode) {
+        data += "&bmode=1";
+    }
+    $.post('postscore.php', data, function(result) {
+    	console.log(result);
+        if (result) {
+            $("#global-scoreboard").html(result);
+            if (score > 0) {
+                $("#personal-score").empty();
+                $(".success").show().fadeOut(5000);
+                $("#submit-controls").hide();
+            }
+            
+        }
+    });
+}
+
+function hideScore (){
+    $('.scoreboard').hide();
+}
+
+ImpactMixin = {
+    setScoreCallback: setScore,
+    hideScore: hideScore
+};
+
+$(document).ready(function() {
+
+
+
+    $.getJSON("hotels.php", function(e){
+        $.each(e,function(i){
+            var hotelNum = i+1;
+            $('.hotels').append('<option value="Option'+hotelNum+'">'+e[i]+'</option>');
+        });
+    });
+
+    var visible = false;
+    $('.showHide').click(function(e){
+        if (!visible){
+        $('.scoreboard').css({'left':'0'});
+        $(this).text('Hide');
+        visible = true;
+        }
+        else {
+           $('.scoreboard').css({'left':'-240px'}); 
+           visible = false;
+             $(this).text('Show');
+        }
+    })
+
+    $("#close-help").click(function() {
+        $(".help").hide();
+    });
+    
+    $("#publish-best-score").click(function() {
+        var maxScore = 0;
+        var submitToken = ''; var bmode = false;
+        var username = $("#username").val();
+        $("#personal-score li").each(function(index, e) {
+            var score = parseInt($(e).text());
+            if (score > maxScore) {
+                maxScore = score;
+                submitToken = $(e).attr('data-token');
+                bmode = $(e).attr('data-bmode') > 0;
+            }
+        });
+        
+        publishScore( maxScore, submitToken, username, bmode );
+        
+        return false;
+    });
+    
+    // also fetches scoreboard
+    publishScore( 0, '', '');
+});
+</script>
+	<script type="text/javascript" src="lib/impact/impact.js"></script>
+	<script type="text/javascript" src="lib/game/main.js"></script>    
+	
+</head>
+<body>
+   <!--  <div class="hotels"></div> -->
+
+    <canvas id="canvas"></canvas>  
+     
+    <div class="scoreboard">
+ <p class="showHide">Show</p> 
+        <div class="myScore">
+        <h3 class="yourScore">Your score: </h3>
+        <div class="success">You're now in the scoreboard :)</div>
+        <ul id="personal-score">
+        </ul>    
+        <div id="submit-controls">
+            <input type="text" name="username" id="username" value="" placeholder="Your Name" maxlength="32" />
+            <div id="publish-best-score">Submit my best score!</div>
+        </div>            
+        </div>
+        <h3>LEADERBOARD</h3>    
+        <div id="global-scoreboard">
+        
+        </div>
+    </div>
+</body>
+</html>

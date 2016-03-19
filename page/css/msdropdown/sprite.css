@@ -1,0 +1,65 @@
+/************* use sprite *****************/
+/* line 2, ../../scss/msdropdown/sprite.scss */
+.smallIcons li, .smallIcons .ddTitleText {
+  /* .smallIcons .ddTitle .ddTitleText  - this will be used when option is selected */
+  background-image: url(../../images/msdropdown/icons/sprite.gif);
+  background-repeat: no-repeat;
+  padding-left: 27px !important;
+}
+
+/* line 8, ../../scss/msdropdown/sprite.scss */
+.smallIcons .calendar {
+  background-position: 0 -396px;
+}
+
+/* line 11, ../../scss/msdropdown/sprite.scss */
+.smallIcons .shoppingcart {
+  background-position: 0 -325px;
+}
+
+/* line 14, ../../scss/msdropdown/sprite.scss */
+.smallIcons .cd {
+  background-position: 0 -433px;
+}
+
+/* line 17, ../../scss/msdropdown/sprite.scss */
+.smallIcons .email {
+  background-position: 0 -249px;
+}
+
+/* line 20, ../../scss/msdropdown/sprite.scss */
+.smallIcons .faq {
+  background-position: 0 -176px;
+}
+
+/* line 23, ../../scss/msdropdown/sprite.scss */
+.smallIcons .games {
+  background-position: 0 -358px;
+}
+
+/* line 26, ../../scss/msdropdown/sprite.scss */
+.smallIcons .music {
+  background-position: 0 -139px;
+}
+
+/* line 29, ../../scss/msdropdown/sprite.scss */
+.smallIcons .phone {
+  background-position: 0 -103px;
+}
+
+/* line 32, ../../scss/msdropdown/sprite.scss */
+.smallIcons .graph {
+  background-position: 0 -66px;
+}
+
+/* line 35, ../../scss/msdropdown/sprite.scss */
+.smallIcons .secured {
+  background-position: 0 -31px;
+}
+
+/* line 38, ../../scss/msdropdown/sprite.scss */
+.smallIcons .video {
+  background-position: 0 7px;
+}
+
+/*******************************/

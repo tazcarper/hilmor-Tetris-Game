@@ -1,0 +1,1244 @@
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag {
+  float: left;
+  padding: 0 !important;
+  margin: 0 5px 0 0;
+  width: 16px;
+  height: 11px;
+  background: url(../../images/msdropdown/icons/flagssprite_small.png) no-repeat;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ad {
+  background-position: 0 0;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ae {
+  background-position: 0 -11px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.af {
+  background-position: 0 -22px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ag {
+  background-position: 0 -33px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ai {
+  background-position: 0 -44px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.al {
+  background-position: 0 -55px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.am {
+  background-position: 0 -66px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.an {
+  background-position: 0 -77px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ao {
+  background-position: 0 -88px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ar {
+  background-position: 0 -99px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.as {
+  background-position: 0 -110px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.at {
+  background-position: 0 -121px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.au {
+  background-position: 0 -132px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.aw {
+  background-position: 0 -143px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ax {
+  background-position: 0 -154px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.az {
+  background-position: 0 -165px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ba {
+  background-position: 0 -176px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.bb {
+  background-position: 0 -187px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.bd {
+  background-position: 0 -198px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.be {
+  background-position: 0 -209px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.bf {
+  background-position: 0 -220px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.bg {
+  background-position: 0 -231px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.bh {
+  background-position: 0 -242px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.bi {
+  background-position: 0 -253px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.bj {
+  background-position: 0 -264px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.bm {
+  background-position: 0 -275px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.bn {
+  background-position: 0 -286px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.bo {
+  background-position: 0 -297px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.br {
+  background-position: 0 -308px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.bs {
+  background-position: 0 -319px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.bt {
+  background-position: 0 -330px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.bv {
+  background-position: 0 -341px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.bw {
+  background-position: 0 -352px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.by {
+  background-position: 0 -363px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.bz {
+  background-position: 0 -374px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ca {
+  background-position: 0 -385px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.catalonia {
+  background-position: 0 -396px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.cc {
+  background-position: 0 -407px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.cd {
+  background-position: 0 -418px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.cf {
+  background-position: 0 -429px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.cg {
+  background-position: 0 -440px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ch {
+  background-position: 0 -451px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ci {
+  background-position: 0 -462px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ck {
+  background-position: 0 -473px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.cl {
+  background-position: 0 -484px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.cm {
+  background-position: 0 -495px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.cn {
+  background-position: 0 -506px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.co {
+  background-position: 0 -517px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.cu {
+  background-position: 0 -528px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.cr {
+  background-position: 0 -539px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.cs {
+  background-position: 0 -550px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.cv {
+  background-position: 0 -561px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.cx {
+  background-position: 0 -572px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.cy {
+  background-position: -16px 0;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.cz {
+  background-position: -16px -11px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.de {
+  background-position: -16px -22px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.dj {
+  background-position: -16px -33px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.dk {
+  background-position: -16px -44px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.dm {
+  background-position: -16px -55px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.do {
+  background-position: -16px -66px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.dz {
+  background-position: -16px -77px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ec {
+  background-position: -16px -88px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ee {
+  background-position: -16px -99px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.eg {
+  background-position: -16px -110px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.eh {
+  background-position: -16px -121px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.england {
+  background-position: -16px -132px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.er {
+  background-position: -16px -143px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.es {
+  background-position: -16px -154px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.et {
+  background-position: -16px -165px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.eu {
+  background-position: -16px -176px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.fam {
+  background-position: -16px -187px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.fi {
+  background-position: -16px -198px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.fj {
+  background-position: -16px -209px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.fk {
+  background-position: -16px -220px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.fm {
+  background-position: -16px -231px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.fo {
+  background-position: -16px -242px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.fr {
+  background-position: -16px -253px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ga {
+  background-position: -16px -264px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.gb {
+  background-position: -16px -275px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.gd {
+  background-position: -16px -286px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ge {
+  background-position: -16px -297px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.gf {
+  background-position: -16px -308px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.gh {
+  background-position: -16px -319px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.gi {
+  background-position: -16px -330px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.gl {
+  background-position: -16px -341px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.gm {
+  background-position: -16px -352px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.gn {
+  background-position: -16px -363px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.gp {
+  background-position: -16px -374px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.gq {
+  background-position: -16px -385px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.gr {
+  background-position: -16px -396px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.gs {
+  background-position: -16px -407px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.gt {
+  background-position: -16px -418px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.gu {
+  background-position: -16px -429px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.gw {
+  background-position: -16px -440px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.gy {
+  background-position: -16px -451px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.hk {
+  background-position: -16px -462px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.hm {
+  background-position: -16px -473px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.hn {
+  background-position: -16px -484px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.hr {
+  background-position: -16px -495px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ht {
+  background-position: -16px -506px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.hu {
+  background-position: -16px -517px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.id {
+  background-position: -16px -528px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ie {
+  background-position: -16px -539px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.il {
+  background-position: -16px -550px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.in {
+  background-position: -16px -561px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.io {
+  background-position: -16px -572px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.iq {
+  background-position: -32px 0;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ir {
+  background-position: -32px -11px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.is {
+  background-position: -32px -22px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.it {
+  background-position: -32px -33px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.jm {
+  background-position: -32px -44px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.jo {
+  background-position: -32px -55px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.jp {
+  background-position: -32px -66px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ke {
+  background-position: -32px -77px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.kg {
+  background-position: -32px -88px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.kh {
+  background-position: -32px -99px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ki {
+  background-position: -32px -110px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.km {
+  background-position: -32px -121px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.kn {
+  background-position: -32px -132px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.kp {
+  background-position: -32px -143px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.kr {
+  background-position: -32px -154px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.kw {
+  background-position: -32px -165px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ky {
+  background-position: -32px -176px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.kz {
+  background-position: -32px -187px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.la {
+  background-position: -32px -198px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.lb {
+  background-position: -32px -209px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.lc {
+  background-position: -32px -220px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.li {
+  background-position: -32px -231px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.lr {
+  background-position: -32px -242px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.lk {
+  background-position: -32px -253px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ls {
+  background-position: -32px -264px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.lt {
+  background-position: -32px -275px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.lu {
+  background-position: -32px -286px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.lv {
+  background-position: -32px -297px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ly {
+  background-position: -32px -308px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ma {
+  background-position: -32px -319px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.mc {
+  background-position: -32px -330px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.md {
+  background-position: -32px -341px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.me {
+  background-position: -32px -352px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.mg {
+  background-position: -32px -363px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.mh {
+  background-position: -32px -374px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.mk {
+  background-position: -32px -385px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ml {
+  background-position: -32px -396px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.mm {
+  background-position: -32px -407px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.mn {
+  background-position: -32px -418px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.mo {
+  background-position: -32px -429px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.mp {
+  background-position: -32px -440px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.mq {
+  background-position: -32px -451px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.mr {
+  background-position: -32px -462px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ms {
+  background-position: -32px -473px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.mt {
+  background-position: -32px -484px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.mu {
+  background-position: -32px -495px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.mv {
+  background-position: -32px -506px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.mw {
+  background-position: -32px -517px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.mx {
+  background-position: -32px -528px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.my {
+  background-position: -32px -539px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.mz {
+  background-position: -32px -550px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.na {
+  background-position: -32px -561px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.nc {
+  background-position: -32px -572px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ne {
+  background-position: -48px 0;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.nf {
+  background-position: -48px -11px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ng {
+  background-position: -48px -22px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ni {
+  background-position: -48px -33px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.nl {
+  background-position: -48px -44px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.no {
+  background-position: -48px -55px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.np {
+  background-position: -48px -66px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.nr {
+  background-position: -48px -77px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.nu {
+  background-position: -48px -88px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.nz {
+  background-position: -48px -99px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.om {
+  background-position: -48px -110px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.pa {
+  background-position: -48px -121px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.pe {
+  background-position: -48px -132px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.pf {
+  background-position: -48px -143px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.pg {
+  background-position: -48px -154px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ph {
+  background-position: -48px -165px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.pk {
+  background-position: -48px -176px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.pl {
+  background-position: -48px -187px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.pm {
+  background-position: -48px -198px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.pn {
+  background-position: -48px -209px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.pr {
+  background-position: -48px -220px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ps {
+  background-position: -48px -231px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.pt {
+  background-position: -48px -242px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.pw {
+  background-position: -48px -253px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.py {
+  background-position: -48px -264px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.qa {
+  background-position: -48px -275px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.re {
+  background-position: -48px -286px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ro {
+  background-position: -48px -297px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.rs {
+  background-position: -48px -308px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ru {
+  background-position: -48px -319px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.rw {
+  background-position: -48px -330px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.sa {
+  background-position: -48px -341px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.sb {
+  background-position: -48px -352px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.sc {
+  background-position: -48px -363px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.scotland {
+  background-position: -48px -374px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.sd {
+  background-position: -48px -385px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.se {
+  background-position: -48px -396px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.sg {
+  background-position: -48px -407px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.sh {
+  background-position: -48px -418px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.si {
+  background-position: -48px -429px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.sj {
+  background-position: -48px -440px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.sk {
+  background-position: -48px -451px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.sl {
+  background-position: -48px -462px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.sm {
+  background-position: -48px -473px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.sn {
+  background-position: -48px -484px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.so {
+  background-position: -48px -495px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.sr {
+  background-position: -48px -506px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.st {
+  background-position: -48px -517px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.sv {
+  background-position: -48px -528px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.sy {
+  background-position: -48px -539px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.sz {
+  background-position: -48px -550px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.tc {
+  background-position: -48px -561px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.td {
+  background-position: -48px -572px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.tf {
+  background-position: -64px 0;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.tg {
+  background-position: -64px -11px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.th {
+  background-position: -64px -22px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.tj {
+  background-position: -64px -33px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.tk {
+  background-position: -64px -44px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.tl {
+  background-position: -64px -55px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.tm {
+  background-position: -64px -66px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.tn {
+  background-position: -64px -77px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.to {
+  background-position: -64px -88px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.tr {
+  background-position: -64px -99px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.tt {
+  background-position: -64px -110px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.tv {
+  background-position: -64px -121px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.tw {
+  background-position: -64px -132px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.tz {
+  background-position: -64px -143px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ua {
+  background-position: -64px -154px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ug {
+  background-position: -64px -165px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.um {
+  background-position: -64px -176px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.us {
+  background-position: -64px -187px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.uy {
+  background-position: -64px -198px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.uz {
+  background-position: -64px -209px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.va {
+  background-position: -64px -220px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.vc {
+  background-position: -64px -231px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ve {
+  background-position: -64px -242px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.vg {
+  background-position: -64px -253px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.vi {
+  background-position: -64px -264px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.vn {
+  background-position: -64px -275px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.vu {
+  background-position: -64px -286px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.wales {
+  background-position: -64px -297px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.wf {
+  background-position: -64px -308px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ws {
+  background-position: -64px -319px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.ye {
+  background-position: -64px -330px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.yt {
+  background-position: -64px -341px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.za {
+  background-position: -64px -352px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.zm {
+  background-position: -64px -363px;
+}
+
+/* line 1, ../../scss/msdropdown/flags.scss */
+.flag.zw {
+  background-position: -64px -374px;
+}

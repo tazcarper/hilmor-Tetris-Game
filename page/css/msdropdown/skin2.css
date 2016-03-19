@@ -1,0 +1,112 @@
+/* line 1, ../../scss/msdropdown/skin2.scss */
+.blue {
+  border: 1px solid #ddd;
+}
+
+/* line 2, ../../scss/msdropdown/skin2.scss */
+.blue .divider {
+  display: none;
+}
+
+/* line 3, ../../scss/msdropdown/skin2.scss */
+.blue .ddArrow {
+  width: 27px;
+  height: 27px;
+  margin-top: -14px;
+  background: url(../../images/msdropdown/skin2/dd_arrow.gif) no-repeat;
+}
+
+/* line 4, ../../scss/msdropdown/skin2.scss */
+.blue .ddArrow:hover {
+  background-position: 0 100%;
+}
+
+/* line 5, ../../scss/msdropdown/skin2.scss */
+.blue .ddTitle {
+  color: #fff;
+  background: #10bbe6 url(../../images/msdropdown/skin2/title-bg.gif) repeat-x left top;
+}
+
+/* line 6, ../../scss/msdropdown/skin2.scss */
+.blue .ddTitle .ddTitleText {
+  padding: 10px 20px 10px 5px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+/* line 7, ../../scss/msdropdown/skin2.scss */
+.blue .ddTitle .ddTitleText .ddTitleText {
+  padding: 0;
+}
+
+/* line 8, ../../scss/msdropdown/skin2.scss */
+.blue .ddTitle .description {
+  font-size: 12px;
+  color: #666;
+}
+
+/* line 9, ../../scss/msdropdown/skin2.scss */
+.blue .ddTitle .ddTitleText img {
+  padding-right: 5px;
+}
+
+/* line 10, ../../scss/msdropdown/skin2.scss */
+.blue .ddChild {
+  border: 1px solid #c3c3c3;
+  background-color: #fff;
+  left: -1px;
+}
+
+/* line 11, ../../scss/msdropdown/skin2.scss */
+.blue .ddChild li {
+  padding: 5px;
+  background-color: #fff;
+  border-bottom: 1px solid #c3c3c3;
+}
+
+/* line 12, ../../scss/msdropdown/skin2.scss */
+.blue .ddChild li .description {
+  color: #666;
+}
+
+/* line 13, ../../scss/msdropdown/skin2.scss */
+.blue .ddChild li .ddlabel {
+  color: #333;
+}
+
+/* line 14, ../../scss/msdropdown/skin2.scss */
+.blue .ddChild li.hover {
+  background-color: #66CCFF;
+}
+
+/* line 15, ../../scss/msdropdown/skin2.scss */
+.blue .ddChild li img {
+  padding: 0 6px 0 0;
+}
+
+/* line 16, ../../scss/msdropdown/skin2.scss */
+.blue .ddChild li.optgroup {
+  padding: 0;
+}
+
+/* line 17, ../../scss/msdropdown/skin2.scss */
+.blue .ddChild li.optgroup .optgroupTitle {
+  padding: 0 5px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* line 18, ../../scss/msdropdown/skin2.scss */
+.blue .ddChild li.optgroup ul li {
+  padding: 5px 5px 5px 15px;
+}
+
+/* line 19, ../../scss/msdropdown/skin2.scss */
+.blue .ddChild li.selected {
+  background-color: #0d97ba;
+}
+
+/* line 20, ../../scss/msdropdown/skin2.scss */
+.blue .ddChild li.selected .ddlabel {
+  color: #fff;
+}

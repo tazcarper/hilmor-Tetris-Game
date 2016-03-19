@@ -1,0 +1,347 @@
+/* line 1, ../../scss/msdropdown/dd.scss */
+.borderRadius {
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+/* line 2, ../../scss/msdropdown/dd.scss */
+.borderRadiusTp {
+  -moz-border-radius: 5px 5px 0 0;
+  border-radius: 5px 5px 0 0;
+}
+
+/* line 3, ../../scss/msdropdown/dd.scss */
+.borderRadiusBtm {
+  -moz-border-radius: 0 0 5px 5px;
+  border-radius: 0 0 5px 5px;
+}
+
+/* line 5, ../../scss/msdropdown/dd.scss */
+.ddcommon {
+  position: relative;
+  display: -moz-inline-stack;
+  zoom: 1;
+  display: inline-block;
+  *display: inline;
+  cursor: default;
+}
+
+/* line 6, ../../scss/msdropdown/dd.scss */
+.ddcommon ul {
+  padding: 0;
+  margin: 0;
+}
+
+/* line 7, ../../scss/msdropdown/dd.scss */
+.ddcommon ul li {
+  list-style-type: none;
+}
+
+/* line 8, ../../scss/msdropdown/dd.scss */
+.borderRadiusTp ul li:last-child {
+  -moz-border-radius: 0 0 5px 5px;
+  border-radius: 0 0 5px 5px;
+  border-bottom: 0 none #c3c3c3;
+}
+
+/* line 9, ../../scss/msdropdown/dd.scss */
+.borderRadiusBtm ul li:first-child {
+  -moz-border-radius: 5px 5px 0 0;
+  border-radius: 5px 5px 0 0;
+  border-bottom: 1 solid #c3c3c3;
+}
+
+/* line 11, ../../scss/msdropdown/dd.scss */
+.ddcommon .disabled img, .ddcommon .disabled span, .ddcommon.disabledAll {
+  opacity: .5;
+  /* standard: ff gt 1.5, opera, safari */
+  -ms-filter: "alpha(opacity=50)";
+  /* ie 8 */
+  filter: alpha(opacity=50);
+  /* ie lt 7 */
+  -khtml-opacity: .5;
+  /* safari 1.x */
+  -moz-opacity: .5;
+  /* ff lt 1.5, netscape */
+  color: #999999;
+}
+
+/* line 19, ../../scss/msdropdown/dd.scss */
+.ddcommon .clear {
+  clear: both;
+}
+
+/* line 20, ../../scss/msdropdown/dd.scss */
+.ddcommon .shadow {
+  -moz-box-shadow: 5px 5px 5px -5px #888888;
+  -webkit-box-shadow: 5px 5px 5px -5px #888888;
+  box-shadow: 5px 5px 5px -5px #888888;
+}
+
+/* line 21, ../../scss/msdropdown/dd.scss */
+.ddcommon input.text {
+  color: #7e7e7e;
+  padding: 0 0 0 0;
+  position: absolute;
+  background: #fff;
+  display: block;
+  width: 98%;
+  height: 98%;
+  left: 2px;
+  top: 0;
+  border: none;
+}
+
+/* line 22, ../../scss/msdropdown/dd.scss */
+.ddOutOfVision {
+  position: relative;
+  display: -moz-inline-stack;
+  display: inline-block;
+  zoom: 1;
+  *display: inline;
+}
+
+/* line 23, ../../scss/msdropdown/dd.scss */
+.borderRadius .shadow {
+  -moz-box-shadow: 5px 5px 5px -5px #888888;
+  -webkit-box-shadow: 5px 5px 5px -5px #888888;
+  box-shadow: 5px 5px 5px -5px #888888;
+}
+
+/* line 24, ../../scss/msdropdown/dd.scss */
+.borderRadiusBtm .shadow {
+  -moz-box-shadow: -5px -5px 5px -5px #888888;
+  -webkit-box-shadow: -5px -5px 5px -5px #888888;
+  box-shadow: -5px -5px 5px -5px #888888;
+}
+
+/* line 25, ../../scss/msdropdown/dd.scss */
+.borderRadiusTp .border, .borderRadius .border {
+  -moz-border-radius: 0 0 5px 5px;
+  border-radius: 0 0 5px 5px;
+}
+
+/* line 26, ../../scss/msdropdown/dd.scss */
+.borderRadiusBtm .border {
+  -moz-border-radius: 5px 5px 0 0;
+  border-radius: 5px 5px 0 0;
+}
+
+/* line 27, ../../scss/msdropdown/dd.scss */
+img.fnone {
+  float: none !important;
+}
+
+/* line 28, ../../scss/msdropdown/dd.scss */
+.ddcommon .divider {
+  width: 0;
+  height: 100%;
+  position: absolute;
+}
+
+/* line 29, ../../scss/msdropdown/dd.scss */
+.ddcommon .ddArrow {
+  display: inline-block;
+  position: absolute;
+  top: 50%;
+  right: 4px;
+}
+
+/* line 30, ../../scss/msdropdown/dd.scss */
+.ddcommon .ddArrow:hover {
+  background-position: 0 100%;
+}
+
+/* line 31, ../../scss/msdropdown/dd.scss */
+.ddcommon .ddTitle {
+  padding: 0;
+  position: relative;
+  display: inline-block;
+  width: 100%;
+}
+
+/* line 32, ../../scss/msdropdown/dd.scss */
+.ddcommon .ddTitle .ddTitleText {
+  display: block;
+}
+
+/* line 33, ../../scss/msdropdown/dd.scss */
+.ddcommon .ddTitle .ddTitleText .ddTitleText {
+  padding: 0;
+}
+
+/* line 34, ../../scss/msdropdown/dd.scss */
+.ddcommon .ddTitle .description {
+  display: block;
+}
+
+/* line 35, ../../scss/msdropdown/dd.scss */
+.ddcommon .ddTitle .ddTitleText img {
+  position: relative;
+  vertical-align: middle;
+  float: left;
+}
+
+/* line 36, ../../scss/msdropdown/dd.scss */
+.ddcommon .ddChild {
+  position: absolute;
+  display: none;
+  width: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  zoom: 1;
+  z-index: 9999;
+}
+
+/* line 37, ../../scss/msdropdown/dd.scss */
+.ddcommon .ddChild li {
+  clear: both;
+}
+
+/* line 38, ../../scss/msdropdown/dd.scss */
+.ddcommon .ddChild li .description {
+  display: block;
+}
+
+/* line 39, ../../scss/msdropdown/dd.scss */
+.ddcommon .ddChild li img {
+  border: 0 none;
+  position: relative;
+  vertical-align: middle;
+  float: left;
+}
+
+/* line 40, ../../scss/msdropdown/dd.scss */
+.ddcommon .ddChild li.optgroup {
+  padding: 0;
+}
+
+/* line 41, ../../scss/msdropdown/dd.scss */
+.ddcommon .ddChild li.optgroup .optgroupTitle {
+  padding: 0 5px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* line 42, ../../scss/msdropdown/dd.scss */
+.ddcommon .ddChild li.optgroup ul li {
+  padding: 5px 5px 5px 15px;
+}
+
+/* line 43, ../../scss/msdropdown/dd.scss */
+.ddcommon .noBorderTop {
+  border-top: none 0  !important;
+  padding: 0;
+  margin: 0;
+}
+
+/*************** default theme **********************/
+/* line 46, ../../scss/msdropdown/dd.scss */
+.dd {
+  border: 1px solid #c3c3c3;
+  width: 100% !important;
+}
+
+/* line 47, ../../scss/msdropdown/dd.scss */
+.dd .divider {
+  border-left: 1px solid #c3c3c3;
+  border-right: 1px solid #fff;
+  right: 24px;
+}
+
+/* line 48, ../../scss/msdropdown/dd.scss */
+.dd .ddArrow {
+  width: 16px;
+  height: 16px;
+  margin-top: -8px;
+  background: url(../img/dd_arrow.gif) no-repeat;
+}
+
+/* line 49, ../../scss/msdropdown/dd.scss */
+.dd .ddArrow:hover {
+  background-position: 0 100%;
+}
+
+/* line 50, ../../scss/msdropdown/dd.scss */
+.dd .ddTitle {
+  color: #000;
+  background: #ffffff;
+}
+
+/* line 51, ../../scss/msdropdown/dd.scss */
+.dd .ddTitle .ddTitleText {
+  padding: 5px 20px 5px 5px;
+}
+
+/* line 52, ../../scss/msdropdown/dd.scss */
+.dd .ddTitle .ddTitleText .ddTitleText {
+  padding: 0;
+}
+
+/* line 53, ../../scss/msdropdown/dd.scss */
+.dd .ddTitle .description {
+  font-size: 12px;
+  color: #666;
+}
+
+/* line 54, ../../scss/msdropdown/dd.scss */
+.dd .ddTitle .ddTitleText img {
+  padding-right: 5px;
+}
+
+/* line 55, ../../scss/msdropdown/dd.scss */
+.dd .ddChild {
+  border: 1px solid #c3c3c3;
+  background-color: #fff;
+  left: -1px;
+}
+
+/* line 56, ../../scss/msdropdown/dd.scss */
+.dd .ddChild li {
+  padding: 5px;
+  background-color: #fff;
+  border-bottom: 1px solid #c3c3c3;
+}
+
+/* line 57, ../../scss/msdropdown/dd.scss */
+.dd .ddChild li .description {
+  color: #666;
+}
+
+/* line 58, ../../scss/msdropdown/dd.scss */
+.dd .ddChild li .ddlabel {
+  color: #333;
+}
+
+/* line 59, ../../scss/msdropdown/dd.scss */
+.dd .ddChild li.hover {
+  background-color: #f2f2f2;
+}
+
+/* line 60, ../../scss/msdropdown/dd.scss */
+.dd .ddChild li img {
+  padding: 0 6px 0 0;
+}
+
+/* line 61, ../../scss/msdropdown/dd.scss */
+.dd .ddChild li.optgroup {
+  padding: 0;
+}
+
+/* line 62, ../../scss/msdropdown/dd.scss */
+.dd .ddChild li.optgroup .optgroupTitle {
+  padding: 0 5px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* line 63, ../../scss/msdropdown/dd.scss */
+.dd .ddChild li.optgroup ul li {
+  padding: 5px 5px 5px 15px;
+}
+
+/* line 64, ../../scss/msdropdown/dd.scss */
+.dd .ddChild li.selected {
+  background-color: #d5d5d5;
+  color: #000;
+}
